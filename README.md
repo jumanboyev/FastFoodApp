@@ -3,5 +3,6 @@
 
 Desert | Drinks
 -----|-----
-![Desert](https://github.com/jumanboyev/FastFoodApp/assets/123434293/0dfa5cbb-8ec8-462c-b8c5-78509ec11bb9) | ![Drinks](https://github.com/jumanboyev/FastFoodApp/assets/123434293/a220c163-bb62-45ee-9ec4-74bf3bc112fe)
+![Desert](https://github.com/jumanboyev/FastFoodApp/assets/123434293/0dfa5cbb-8ec8-462c-b8c5-78509ec11bb9) | ![Drinks](https://github.com/jumanboyev/FastFoodApp/assets/123434293/1ec2fe52-ff49-4af1-9059-7cba9dbdc0b6)
+
 
