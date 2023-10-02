@@ -1,2 +1,3 @@
 # fastfoodapp
-![home](https://user-images.githubusercontent.com/110013097/232287823-640fc99f-d6c6-474b-97b5-3c13db81d61f.png)
+![image](https://github.com/jumanboyev/FastFoodApp/assets/123434293/8e1572a4-a8aa-47ee-9acb-b05f27c77bf0)
+
